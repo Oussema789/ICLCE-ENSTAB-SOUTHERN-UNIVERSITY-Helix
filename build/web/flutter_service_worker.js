@@ -385,7 +385,7 @@ const RESOURCES = {".dart_tool/dartpad/web_plugin_registrant.dart": "7ed35bc85b7
 "icons/ic_launcher.png": "685a388781bad74fc59b96994a259d28",
 "icons/ic_launcher_adaptive_back.png": "ca8ee7f93171bb4638f729567cc20b39",
 "icons/ic_launcher_adaptive_fore.png": "330f0a2e4199e350b346a0cccb075ffd",
-"index.html": "2daa26a24605e611c7ec774238d402b3",
+"index.html": "d9fffa7f940046a1fbf428359253b846",
 "/": "7b2b7c545cf0c6861b554ab1aec23d86",
 "lib/main.dart": "e9ae1e3e2b9649d6afb87c44951b8404",
 "main.dart.js": "812f50ed169d0c15354bf9ea95154b2e",
