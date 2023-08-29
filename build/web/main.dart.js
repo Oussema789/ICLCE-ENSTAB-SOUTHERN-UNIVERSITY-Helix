@@ -44761,7 +44761,7 @@ $2(a1,a2){var s,r,q,p,o,n,m,l,k,j,i,h=null,g="assets/img_2.jpg",f="ENSTAB \nCART
 if(a0===B.u){a0=t.l
 s=A.ad(a1,B.o,a0).w
 r=A.ad(a1,B.o,a0).w
-r=A.af(h,A.dD(!1,!0,A.aS(g,B.e7,h,h,h),h,!0,h,h,h,h,h,h,h,h,h,new A.anV(a1),h,h,h,h),B.h,h,h,h,h,s.a.a*0.1,h,h,h,h,r.a.a)
+r=A.af(h,A.dD(!1,!0,A.aS(g,B.e7,h,h,h),h,!0,h,h,h,h,h,h,h,h,h,new A.anV(a1),h,h,h,h),B.h,h,h,h,h,s.a.b*0.3,h,h,h,h,r.a.a)
 s=A.b3(12)
 q=A.a([new A.bQ(2,B.a1,A.I(51,158,158,158),B.r5,4)],t.V)
 a0=A.ad(a1,B.o,a0).w
