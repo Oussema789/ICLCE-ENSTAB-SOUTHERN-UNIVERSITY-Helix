@@ -44359,7 +44359,7 @@ $1(a){return A.dC(A.aS("assets/enstab.jpg",B.aa,null,null,null))},
 $S:5}
 A.Io.prototype={
 I(a){var s=null,r=t.l,q=A.ad(a,s,r).w.a,p=t.p
-return A.ayd(A.a([A.ai(A.a([new A.a0(B.aH,A.ai(A.a([A.av(new A.u9(s),A.ad(a,B.o,r).w.a.a*3.2,s)],p),B.k,B.l,B.i),s),A.lD(a,q,"Locating ENSTAB in the world"),A.ai(A.a([new A.a0(B.aH,B.r2,s),B.x9,A.dD(!1,!0,A.aS("assets/enstab.jpg",s,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a4t(a),s,s,s,s)],p),B.k,B.l,B.i),new A.a0(B.C6,A.lD(a,q,"ENGINEERING PROGRAM"),s),new A.a0(B.aH,A.o0($.nz(),0),s),new A.a0(B.aH,A.o0($.nz(),1),s),new A.a0(B.aH,A.o0($.nz(),2),s),new A.a0(B.aH,A.o0($.nz(),3),s),new A.a0(B.aH,A.ar6(u.t),s),A.lD(a,q,"ENSTAB MASTER DEGREE"),new A.a0(B.aH,A.avd(a,$.asm(),0),s),A.lD(a,q,"ENSTAB Projects"),new A.a0(B.aH,A.axC(a),s),A.lD(a,q,"ENSTAB CONTACT"),new A.a0(B.aH,new A.r0(s),s),B.dY],p),B.k,B.l,B.i)],p))}}
+return A.ayd(A.a([A.ai(A.a([new A.a0(B.aH,A.ai(A.a([A.av(new A.u9(s),A.ad(a,B.o,r).w.a.b*2.45,s)],p),B.k,B.l,B.i),s),A.lD(a,q,"Locating ENSTAB in the world"),A.ai(A.a([new A.a0(B.aH,B.r2,s),B.x9,A.dD(!1,!0,A.aS("assets/enstab.jpg",s,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a4t(a),s,s,s,s)],p),B.k,B.l,B.i),new A.a0(B.C6,A.lD(a,q,"ENGINEERING PROGRAM"),s),new A.a0(B.aH,A.o0($.nz(),0),s),new A.a0(B.aH,A.o0($.nz(),1),s),new A.a0(B.aH,A.o0($.nz(),2),s),new A.a0(B.aH,A.o0($.nz(),3),s),new A.a0(B.aH,A.ar6(u.t),s),A.lD(a,q,"ENSTAB MASTER DEGREE"),new A.a0(B.aH,A.avd(a,$.asm(),0),s),A.lD(a,q,"ENSTAB Projects"),new A.a0(B.aH,A.axC(a),s),A.lD(a,q,"ENSTAB CONTACT"),new A.a0(B.aH,new A.r0(s),s),B.dY],p),B.k,B.l,B.i)],p))}}
 A.a4t.prototype={
 $0(){A.dO(new A.a4s(),this.a,t.z)},
 $S:0}
@@ -44761,13 +44761,13 @@ $2(a1,a2){var s,r,q,p,o,n,m,l,k,j,i,h=null,g="assets/img_2.jpg",f="ENSTAB \nCART
 if(a0===B.u){a0=t.l
 s=A.ad(a1,B.o,a0).w
 r=A.ad(a1,B.o,a0).w
-r=A.af(h,A.dD(!1,!0,A.aS(g,B.e7,h,h,h),h,!0,h,h,h,h,h,h,h,h,h,new A.anV(a1),h,h,h,h),B.h,h,h,h,h,s.a.b*0.3,h,h,h,h,r.a.a)
+r=A.af(h,A.dD(!1,!0,A.aS(g,B.e7,h,h,h),h,!0,h,h,h,h,h,h,h,h,h,new A.anV(a1),h,h,h,h),B.h,h,h,h,h,s.a.b*0.2,h,h,h,h,r.a.a)
 s=A.b3(12)
 q=A.a([new A.bP(2,B.a1,A.I(51,158,158,158),B.r5,4)],t.V)
 a0=A.ad(a1,B.o,a0).w
 p=this.a
 o=t.p
-return A.ai(A.a([r,A.af(h,A.ai(A.a([A.awA(A.a([A.aA3(f,B.dX,A.aO(h,h,h,h,h,h,h,h,h,h,h,p.a*0.05,h,h,B.ai,h,0.9,!0,h,h,h,h,h,h,h,h))],t.u6)),A.av(h,p.b*0.04,h),A.bR(A.ai(A.a([A.n2("ENSTAB'S PRESENTATION",e,14),A.n2(d,c,14),A.n2(b,a,14)],o),B.k,B.l,B.i),1),new A.AS(h)],o),B.Y,B.l,B.i),B.h,h,h,new A.aV(B.j,h,h,s,q,h,B.t),h,a0.a.b*2.4,h,B.O,h,h,h)],o),B.k,B.l,B.i)}s=t.l
+return A.ai(A.a([r,A.af(h,A.ai(A.a([A.awA(A.a([A.aA3(f,B.dX,A.aO(h,h,h,h,h,h,h,h,h,h,h,p.a*0.05,h,h,B.ai,h,0.9,!0,h,h,h,h,h,h,h,h))],t.u6)),A.av(h,p.b*0.04,h),A.bR(A.ai(A.a([A.n2("ENSTAB'S PRESENTATION",e,14),A.n2(d,c,14),A.n2(b,a,14)],o),B.k,B.l,B.i),1),new A.AS(h)],o),B.Y,B.l,B.i),B.h,h,h,new A.aV(B.j,h,h,s,q,h,B.t),h,a0.a.b*2.2,h,B.O,h,h,h)],o),B.k,B.l,B.i)}s=t.l
 r=A.ad(a1,B.o,s).w
 q=A.ad(a1,B.o,s).w
 q=A.dD(!1,!0,A.av(A.aS(g,B.C,h,h,h),r.a.a*0.3,q.a.a),h,!0,h,h,h,h,h,h,h,h,h,new A.anW(a1),h,h,h,h)
